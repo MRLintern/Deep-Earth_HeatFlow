@@ -1,7 +1,7 @@
 # Deep-Earth_HeatFlow
 
 ## Introduction
-* A Modern Fortran (2008+) solver, Parallelising the Jacobi Method with OpenMP to model Heat-Diffusion across the Core-Mantle Boundary (CMB) of the Earth.
+* A __Modern Fortran (2008+)__ solver, __Parallelising__ the __Jacobi Method__ with __OpenMP__ to model __Heat-Diffusion__ across __Earths's Core-Mantle Boundary (CMB)__.
 
 ## Geophysics Background
 * TODO.
