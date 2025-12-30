@@ -13,5 +13,8 @@
 * `NumPy`.
 * `Matplotlib`.
 
+## Resources
+* __Introduction to Modern Fortran for the Earth System Sciences__ by __Dragos B. Chirila__ & __Gerrit Lohmann__.
+
 ## Running and Using the Software
 * TODO.
