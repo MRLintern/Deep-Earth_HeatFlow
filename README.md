@@ -14,7 +14,7 @@
 * `Matplotlib`.
 
 ## Resources
-* __Introduction to Modern Fortran for the Earth System Sciences__ by __Dragos B. Chirila__ & __Gerrit Lohmann__.
+* ___Introduction to Modern Fortran for the Earth System Sciences___ by __Dragos B. Chirila__ & __Gerrit Lohmann__.
 
 ## Running and Using the Software
 * TODO.
