@@ -7,7 +7,11 @@
 * TODO.
 
 ## Requirements
-* TODO.
+* `gfortran` compiler.
+* `OpenMP`.
+* `Python 3.X`.
+* `NumPy`.
+* `Matplotlib`.
 
 ## Running and Using the Software
 * TODO.
