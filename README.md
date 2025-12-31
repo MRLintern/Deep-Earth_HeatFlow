@@ -21,7 +21,7 @@
 * `$ cd CMB_HeatFlow`
 * `$ chmod +x build.sh`
 * `$ ./build`
-* `$ ./build/CMB_Heat
+* `$ ./build/CMB_Heat`
 * Now plotting the generated `.bin` file.
 * `$ cd visualisation`
 * `$ python3 CMB_Temperature_Field.py`; this will produce a plot of the 3D model. Note: this plot has been included in the `sample_plot` directory for viewing.
