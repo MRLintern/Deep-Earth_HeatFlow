@@ -89,7 +89,7 @@ ax.set_zlabel("Depth coordinate (km)")
 ax.view_init(elev=25, azim=-60)
 
 
-# Colorbar
+# Colour bar
 
 cbar = plt.colorbar(sc, ax=ax, shrink=0.7, pad=0.1)
 cbar.set_label("Normalized temperature anomaly")
