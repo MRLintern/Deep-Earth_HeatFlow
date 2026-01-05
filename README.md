@@ -44,7 +44,7 @@
 	
 #### Mantle Side (Robin Boundary)
 
-* The Lower Mantle is modeled as a __Thermal Reservoir__ that exchanges heat with the CMB via conduction and __parameterised convection.
+* The Lower Mantle is modeled as a __Thermal Reservoir__ that exchanges heat with the CMB via conduction and __Parameterised Convection__.
 * This is represented by a __Robin (mixed) Boundary Condition__:
 
 	- `-k(dT/dn) = h_cmb(T - T_mantle)`, where:
