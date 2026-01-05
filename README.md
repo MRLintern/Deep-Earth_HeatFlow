@@ -48,7 +48,7 @@
 * This is represented by a __Robin (mixed) Boundary Condition__:
 
 	- `-k(dT/dn) = h_cmb(T - T_mantle)`, where:
-	- `k` is __Thermal Conductivity,
+	- `k` is __Thermal Conductivity__,
 	- `h_cmb` is an __effective Mantle Heat Transfer Coefficient__,
 	- `T_mantle` is the __Lowermost Mantle Temperature__.
 	
@@ -60,7 +60,7 @@
 
 	- `dT/dt = K(del . (del(T)))`, where:
 	- `T` is temperature,
-	- `K = k/(density * c_p)`,
+	- `K = k/(density * c_p)`, __Thermal Diffusivity__,
 	- `c_p` is specific heat at constant pressure
 	
 * This equation is __Discretised__ using the __Finite Difference Method__ on a regular __Cartesian Grid__.
