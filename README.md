@@ -49,7 +49,7 @@
 
 	- `-k(dT/dn) = h_cmb(T - T_mantle)`, where:
 	- `k` is __Thermal Conductivity,
-	- `h_cmb` is an __effective mantle heat transfer coefficient__,
+	- `h_cmb` is an __effective Mantle Heat Transfer Coefficient__,
 	- `T_mantle` is the __Lowermost Mantle Temperature__.
 	
 * This formation captures the idea that __Mantle Dynamics regulate CMB Heat Flux__ rather than enforcing a fixed temperature
