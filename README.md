@@ -61,7 +61,7 @@
 	- `dT/dt = K(del . (del(T)))`, where:
 	- `T` is temperature,
 	- `K = k/(density * c_p)`, __Thermal Diffusivity__,
-	- `c_p` is specific heat at constant pressure
+	- `c_p` is the specific heat at constant pressure
 	
 * This equation is __Discretised__ using the __Finite Difference Method__ on a regular __Cartesian Grid__.
 * The resulting __System Algebraic Equations__ are solved via the __Jacobi Iterative Method__.
