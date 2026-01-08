@@ -86,3 +86,9 @@
 * Now plotting the generated `.bin` file.
 * `$ cd visualisation`
 * `$ python3 CMB_Temperature_Field.py`; this will produce a plot of the 3D model. Note: this plot has been included in the `sample_plot` directory for viewing.
+
+## Update
+* The image of the resulting model shows an __anomaly__ between __50km to 200km__ in the __x tangential direction__.
+* The anomaly consists of a __Cool Patch__ on the __base of the Outer Core__ surrounded by __Hotter Fluid__.
+* This anomaly isn't a __Physical Anomaly__ but a __Numerical Anomaly__ from the code.
+* This is to be sorted.
